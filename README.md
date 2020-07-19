@@ -1,4 +1,4 @@
-### Hi. I’m Duncan Ritchie.
+# Hi. I’m Duncan Ritchie.
 I am an apprentice software developer, knowledgeable of HTML, CSS, JavaScript, Excel, MySql, Java, and C#.
 
 I studied for twenty-four weeks at the web development bootcamp Code Nation, who are now overseeing my apprenticeship at the R&D consultancy Information Catalyst.
