@@ -1,5 +1,5 @@
 # Hi. I’m Duncan Ritchie.
-I am a junior software developer, knowledgeable of HTML, CSS, JavaScript, TypeScript, Excel, MySql, Java, and C#.
+I am a junior software developer, knowledgeable of HTML, CSS, JavaScript, TypeScript, Excel, Sql, Java, and C#.
 
 I studied for twenty-four weeks at the web development bootcamp Code Nation, and I work for the R&D company Information Catalyst. This enabled me to fulfil an apprenticeship.
 
