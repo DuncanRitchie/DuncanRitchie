@@ -9,6 +9,8 @@ The GitHub repos I’ve contributed most to are for [my personal website](https:
 
 See my website for [more about my coding œuvre](https://www.duncanritchie.co.uk/code.html).
 
+<address>
+
 🗺️ I live in Chester, UK.
 
 🗨️ My pronouns are he/him.
@@ -17,4 +19,6 @@ See my website for [more about my coding œuvre](https://www.duncanritchie.co.uk
 
 🔗 I’m on [LinkedIn](https://www.linkedin.com/in/duncan-ritchie-uk).
 
-🕸️ www.duncanritchie.co.uk 
+🕸️ www.duncanritchie.co.uk
+
+</address>
