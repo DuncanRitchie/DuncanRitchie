@@ -1,7 +1,7 @@
 # Hi. I’m Duncan Ritchie.
-I am a software developer with five years’ experience. I’m knowledgeable of HTML, CSS, JavaScript, TypeScript, Excel, Sql, Java, and C#.
+I am a software developer with five years’ experience. I’m knowledgeable of HTML, CSS, JavaScript, TypeScript, Excel, and C#.
 
-I studied for twenty-four weeks at the web development bootcamp Code Nation, and I worked for the R&D company Information Catalyst. This enabled me to fulfil an apprenticeship.
+I studied for twenty-four weeks at the web development bootcamp Code Nation, and I worked for the R&D company Information Catalyst. This enabled me to fulfil an apprenticeship and I was kept on at the company for two years after that. If you know of a role I can fill, please let me know.
 
 Code I wrote for my apprenticeship is on [my second GitHub account](https://github.com/DuncanRitchie2).
 
